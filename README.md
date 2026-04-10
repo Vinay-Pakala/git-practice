@@ -8,3 +8,4 @@ What I learned:
 - git add stages changes
 - git commit saves a snapshot
 - git push uploads to GitHub
+- Additional changes for testing
